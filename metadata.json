@@ -1,0 +1,8 @@
+{
+  "name": "QR & Barcode Scanner Pro",
+  "description": "A professional tool to scan and log data from both camera and external hardware scanners (USB/Bluetooth).",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
